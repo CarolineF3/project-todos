@@ -170,6 +170,7 @@ h1 {
   border-radius: 30px;
   padding: 7px 15px;
   cursor: pointer;
+  color: #6b6462;
   border: 2px double #f8c7b5;
   background-color: #fce1de;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
